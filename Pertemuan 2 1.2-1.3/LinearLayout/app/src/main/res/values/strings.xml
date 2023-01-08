@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LinearLayout</string>
+    <string name="button_toast">TOAST</string>
+    <string name="button_count">COUNT</string>
+    <string name="hitungan">0</string>
+    <string name="message">Linear Layout</string>
+</resources>
